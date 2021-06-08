@@ -20,3 +20,5 @@
 * Maria Eduarda Mourão
 * Gabriel Penna de Lima
 * Celina Vieira de Melo
+
+Por causa de um erro na hora da configuração do git, os commits realizados por Gabriel Penna acabram aparecendo como se tivessem sidos realizados por um usuario chamado "mona lisa"
