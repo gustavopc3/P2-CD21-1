@@ -10,7 +10,7 @@
 	
    A partir da base de dados, a ideia é criar 2 modelos de predição para a frequência semanal de exercícios de uma pessoa dentro da população brasileira com base nas características fisiológicas e possíveis impedimentos que a pandemia possa ter causado em suas rotinas de atividades físicas. Portanto, a variável Target escolhida foi a frequência semanal de exercícios físicos, enquanto o restante das informações serão estudadas para que seja possível determinar se elas influenciam, ou não, a variável Target determinada.
    
-   Como a nossa variável target é QUANTITATIVA, decidimos escolher as seguintes técnicas de classificação: 
+   Como a nossa variável target é QUANTITATIVA, decidimos escolher as seguintes técnicas de classificação: Regressão Linear Múltipla e Regression Tree.
     
    O repositório git do trabalho contém o arquivo do Jupyter Notebook denominado `Projeto2.ipynb`, no qual é feito a análise dos dados, os modelos de predição, as suas respectivas validações e a conclusão do trabalho. Além dele, consta também a base de dados `"Pesquisa.xlsx"`, que contém os dados que serão utilizados no notebook.
 
